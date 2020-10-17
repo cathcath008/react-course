@@ -1,0 +1,14 @@
+.about {
+  width: 40%;
+}
+.about img {
+  width: 50%;
+  display: inline;
+}
+.info {
+  display: grid;
+  padding-top: 1%;
+}
+.info img {
+  width: 50px;
+}
