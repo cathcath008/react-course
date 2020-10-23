@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.navbar {
+  margin: auto;
+  background-color: lightslategray;
+}
+
+.menu {
+  cursor: pointer;
+  display: inline-block;
+  padding: 20px;
+  color: black;
+}
+.menu:hover {
+  color: white;
+}
